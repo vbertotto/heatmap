@@ -63,5 +63,3 @@ Para mais informações ou perguntas, entre em contato:
 - **GitHub**: [vbertotto](https://github.com/vbertotto)
 - **Website**: [bertotto.online](https://bertotto.online/)
 ```
-
-Feel free to modify any sections to better fit your project specifics or personal preferences!
